@@ -21,3 +21,5 @@ Apaixonado por tecnologia, artes gráficas e programação
 ## Sistemas preferidos
 
 <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img align="center" alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/><img align="center" alt="Kali Linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+
+> :construction: Projeto em construção :construction:
